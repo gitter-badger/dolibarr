@@ -1,16 +1,16 @@
 * Dolibarr Links
 *** DOLIBARR SOURCEFORGE
 **** Downloads
-- Download Dolibarr | https://sourceforge.net/projects/dolibarr/files/
-- Download Dolibarr | https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/
-- Download Dolibarr 5.0.0 |  https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/5.0.0/
+- Download Dolibarr			| https://sourceforge.net/projects/dolibarr/files/
+- Download Dolibarr			| https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/
+- Download Dolibarr 5.0.0		|  https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/5.0.0/
 *** FEEDS
-- Feed | https://sourceforge.net/p/dolibarr/activity/feed?source=project_activity
+- Feed					| https://sourceforge.net/p/dolibarr/activity/feed?source=project_activity
 
 *** DOLIBARR GITHUB
-- Dolibarr Github | https://github.com/Dolibarr/dolibarr
-     - Dolibarrr Github Issues | https://github.com/Dolibarr/dolibarr/issues
-     - Dolibarr Github Pull Request | https://github.com/Dolibarr/dolibarr/pulls
+- Dolibarr Github			| https://github.com/Dolibarr/dolibarr
+     - Dolibarrr Github Issues		| https://github.com/Dolibarr/dolibarr/issues
+     - Dolibarr Github Pull Request	| https://github.com/Dolibarr/dolibarr/pulls
 
 *** DOLIBARR WIKI
 - Dolibarr Media Wiki https://wiki.dolibarr.org
@@ -53,15 +53,14 @@
 - Opendsi https://www.facebook.com/OpenDsi
 
 *** DOLIBARR GOOGLE +
-- Dolibarr | https://plus.google.com/+DolibarrOrg
+- Dolibarr				| https://plus.google.com/+DolibarrOrg
 *** DOLIBARR YOUTUBE
-- Dolibarr | https://www.youtube.com/user/DolibarrERPCRM
+- Dolibarr				| https://www.youtube.com/user/DolibarrERPCRM
 
 *** DOLIBARR DIENSTLEISTER
-- Mon Dolibarr http://www.mon-dolibarr
-.fr
+- Mon Dolibarr http://www.mon-dolibarr.fr
 - Nuage Web http://www.nuage-web.fr
-- ATM Consulting http://www.atm-consulting.fr/
+- ATM Consulting http://www.atm-consulting.fr
 - Patas Monkey http://patas-monkey.com
 - Auguria http://www.auguria.net
 - Altairis http://www.altairis.fr
@@ -79,8 +78,8 @@
 - Dolibarr Packete für Debian https://sourceforge.net/projects/dolibarr/files/Dolibarr%20installer%20for%20Debian-Ubuntu%20%28DoliDeb%29/
 
 *** DOLIBARR DOWNLOADS
-- Dolibarr.org Download Seite | https://www.dolibarr.org/downloads
-- Dolibarr auf Sourceforge | https://sourceforge.net/projects/dolibarr/files
+- Dolibarr.org Download Seite		| https://www.dolibarr.org/downloads
+- Dolibarr auf Sourceforge		| https://sourceforge.net/projects/dolibarr/files
 
 *** DOLIBARR DEMOS
 - ATM Dolibarr http://dolibarr.atm-consulting.fr
