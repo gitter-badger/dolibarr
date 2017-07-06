@@ -1,42 +1,45 @@
 * Dolibarr Links
-*** DOLIBARR SOURCEFORGE
+*** SOURCEFORGE
 **** Downloads
-- Download Dolibarr			| https://sourceforge.net/projects/dolibarr/files/
-- Download Dolibarr			| https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/
-- Download Dolibarr 5.0.0		|  https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/5.0.0/
-*** FEEDS
-- Feed					| https://sourceforge.net/p/dolibarr/activity/feed?source=project_activity
+- Dolibarr für Linux, Windows	| https://sourceforge.net/projects/dolibarr/files/
+- Dolibarr Versionen		| https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/
+- Dolibarr 5.0.4 herunterladen	|  https://sourceforge.net/projects/dolibarr/files/Dolibarr%20ERP-CRM/5.0.4/
 
-*** DOLIBARR GITHUB
-- Dolibarr Github			| https://github.com/Dolibarr/dolibarr
-     - Dolibarrr Github Issues		| https://github.com/Dolibarr/dolibarr/issues
-     - Dolibarr Github Pull Request	| https://github.com/Dolibarr/dolibarr/pulls
+*** FEEDS
+- Feed				| https://sourceforge.net/p/dolibarr/activity/feed?source=project_activity
+
+*** GITHUB
+ - Github			| https://github.com/Dolibarr/dolibarr
+     - Issues			| https://github.com/Dolibarr/dolibarr/issues
+     - Pull Request		| https://github.com/Dolibarr/dolibarr/pulls
+     - Commits			| https://github.com/Dolibarr/dolibarr/graphs/commit-activity
 
 *** DOLIBARR WIKI
-- Dolibarr Media Wiki https://wiki.dolibarr.org
-     - Dolibarr Roadmap https://wiki.dolibarr.org/index.php/Category:RoadMap
-     - Dolibarr Roadmap Release 4.0 https://wiki.dolibarr.org/index.php/Roadmap_and_Release_4.0.0
+- Media Wiki https://wiki.dolibarr.org
+- Roadmap https://wiki.dolibarr.org/index.php/Category:RoadMap
+    - Release 4.0 https://wiki.dolibarr.org/index.php/Roadmap_and_Release_4.0.0
+    - Release 5.0 | https://wiki.dolibarr.org/index.php/Roadmap_and_Release_5.0.0
 
 *** DOLIBARR DOXYGEN
-- Dolibarr Doxygen https://doxygen.dolibarr.org/index.html
+- Doxygen https://doxygen.dolibarr.org/index.html
 
 *** DOLIBARR COMMUNITY
-- Dolibarr Community International http://www.dolibarr.org
-- Dolibarr Community Frankreich http://www.dolibarr.fr
-- Dolibarr Community Deutschland http://www.dolibarr.de
-- Dolibarr Community Italien http://www.dolibarr.it
-- Dolibarr Community Spanien http://www.dolibarr.es
+- International http://www.dolibarr.org
+- Frankreich http://www.dolibarr.fr
+- Deutschland http://www.dolibarr.de
+- Italien http://www.dolibarr.it
+- Spanien http://www.dolibarr.es
 
 *** DOLIBARR FOREN
-- Dolibarr Forum Deutschland http://www.dolibarr.de/forum
-- Dolibarr Forum Italien http://www.dolibarr.it/forum
-- Dolibarr Forum Frankreich http://www.dolibarr.fr/forum
-- Dolibarr Forum Spanien http://www.dolibarr.es/foro
+- Deutschland http://www.dolibarr.de/forum
+- Italien http://www.dolibarr.it/forum
+- Frankreich http://www.dolibarr.fr/forum
+- Spanien http://www.dolibarr.es/foro
 
 *** DOLIBARR TWITTER
-- Dolibarr Twitter https://twitter.com/dolibarr
-     - Dolibarr Twitter Hashtag https://twitter.com/hashtag/dolibarr?src=hash
-     - Dolibarr Twitter Search https://twitter.com/search?q=dolibarr
+- Twitter https://twitter.com/dolibarr
+     - Hashtag https://twitter.com/hashtag/dolibarr?src=hash
+     - Search https://twitter.com/search?q=dolibarr
 
 *** DOLIBARR TWITTER USER
 - Tiaris https://twitter.com/tiarisinfo
@@ -45,7 +48,7 @@
 - Opendsi https://twitter.com/opendsi
 
 *** DOLIBARR FACEBOOK
-- Dolibarr Facebook Seite https://www.facebook.com/dolibarr
+- Facebook Seite https://www.facebook.com/dolibarr
 
 *** DOLIBARR FACEBOOK USER
 - Tiaris  https://www.facebook.com/tiarisinformatique
@@ -70,16 +73,16 @@
 - 2byte https://www.2byte.es
 
 *** DOLIBARR PARTNER LISTE
-- Dolibarr Partner Frankreich https://wiki.dolibarr.org/index.php/List_of_Dolibarr_partners_and_providers#France
+- Frankreich https://wiki.dolibarr.org/index.php/List_of_Dolibarr_partners_and_providers#France
 
 *** DOLIBARR INSTALLER
-- Dolibarr Bitnami Installer https://bitnami.com/stack/dolibarr/installer
-- Dolibarr Bitnami Virtual Machines https://bitnami.com/stack/dolibarr/virtual-machine
-- Dolibarr Packete für Debian https://sourceforge.net/projects/dolibarr/files/Dolibarr%20installer%20for%20Debian-Ubuntu%20%28DoliDeb%29/
+- Bitnami Installer https://bitnami.com/stack/dolibarr/installer
+- Bitnami Virtual Machines https://bitnami.com/stack/dolibarr/virtual-machine
+- Packete für Debian https://sourceforge.net/projects/dolibarr/files/Dolibarr%20installer%20for%20Debian-Ubuntu%20%28DoliDeb%29/
 
 *** DOLIBARR DOWNLOADS
-- Dolibarr.org Download Seite		| https://www.dolibarr.org/downloads
-- Dolibarr auf Sourceforge		| https://sourceforge.net/projects/dolibarr/files
+- Dolibarr.org		| https://www.dolibarr.org/downloads
+- Sourceforge.net		| https://sourceforge.net/projects/dolibarr/files
 
 *** DOLIBARR DEMOS
 - ATM Dolibarr http://dolibarr.atm-consulting.fr
@@ -91,7 +94,7 @@
 - Soamichel https://doli.sm-2i.fr
 
 *** DOLIBARR MODULE
-- Dolibarr Tour Generator https://www.dolistore.com/fr/modules/694-Tour-Generator-3-8-4-0.html
+- Tour Generator https://www.dolistore.com/fr/modules/694-Tour-Generator-3-8-4-0.html
 
 
 -----
